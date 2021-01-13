@@ -1,0 +1,25 @@
+{
+  "name": "grahahome",
+  "version": "1.0.0",
+  "description": "grahahome",
+  "main": "index.js",
+  "dependencies": {
+    "ts-loader": "^8.0.14"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uinamaru/grahahome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uinamaru/grahahome/issues"
+  },
+  "homepage": "https://github.com/uinamaru/grahahome#readme"
+}
